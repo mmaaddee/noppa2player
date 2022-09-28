@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "noppa2player", "noppa2player\noppa2player.csproj", "{009C1D65-0DD2-4189-B352-18772E89513E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{009C1D65-0DD2-4189-B352-18772E89513E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009C1D65-0DD2-4189-B352-18772E89513E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009C1D65-0DD2-4189-B352-18772E89513E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009C1D65-0DD2-4189-B352-18772E89513E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E638E5E6-D341-4BC3-9531-E8698150940B}
+	EndGlobalSection
+EndGlobal
